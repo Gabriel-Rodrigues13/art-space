@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Art space</string>
+    <string name="image_pencils_title">Yellow and Blue Colored Pencils</string>
+    <string name="image_pencils_artist">Ann H</string>
+    <string name="image_paintings_title">Paintings in Side Room</string>
+    <string name="image_paintings_artist">Julio Nery</string>
+    <string name="image_blue_liquid_title">Blue Liquid Illustration</string>
+    <string name="image_blue_liquid_artist">Anni Roenkae</string>
+    <string name="image_museum_title">People Inside Museum</string>
+    <string name="image_museum_artist">Rov Camato</string>
+
+
+</resources>
